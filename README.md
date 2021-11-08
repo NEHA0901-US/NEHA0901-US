@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on full stack projects
-- 📫 Reach me: https:neha-sharma23
+- 📫 Reach me: nehasharma98124@gmail.com
 
 <!---
 NEHA0901-US/NEHA0901-US is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
