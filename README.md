@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
-- 🤝 I’m looking for help with **Enhancing ratings on competitive Programming profile**
+- 🤝 I’m looking for help with **Enhancing skills in competitive Programming **
 
 - 👨‍💻 All of my projects are available at [https://github.com/NEHA0901-US](https://github.com/NEHA0901-US)
 
-- 💬 Ask me about **Front-End Development | DSA**
+- 💬 Ask me about **Front-End Development | DSA  | Machine Learning and Data Science**
 
-- 📫 How to reach me **nehasharma98124@gmail.com**
+- 📫 How to reach me **its.nehaasharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
